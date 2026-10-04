@@ -1,0 +1,6 @@
+{
+  "name": "Toddler Learning Hub",
+  "description": "Interactive early learning world for ages 2–5 with ABCs, numbers, colors, shapes, animals, sounds, games, and parent tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

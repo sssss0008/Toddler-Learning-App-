@@ -1,0 +1,78 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Big smiling golden star body centered around (54, 52) -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M54,26 L60.2,40.8 L76,42.5 L64.2,53 L67.5,68.8 L54,60.6 L40.5,68.8 L43.8,53 L32,42.5 L47.8,40.8 Z" />
+
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M54,30 L58.9,42.2 L71.8,43.6 L62.2,52.2 L64.9,65.1 L54,58.4 L43.1,65.1 L45.8,52.2 L36.2,43.6 L49.1,42.2 Z" />
+
+    <!-- Cute Eyes -->
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M48,49 A2.5,3.2 0 1,0 48,42.6 A2.5,3.2 0 1,0 48,49 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M47.2,45.5 A1,1 0 1,0 47.2,43.5 A1,1 0 1,0 47.2,45.5 Z" />
+
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M60,49 A2.5,3.2 0 1,0 60,42.6 A2.5,3.2 0 1,0 60,49 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M59.2,45.5 A1,1 0 1,0 59.2,43.5 A1,1 0 1,0 59.2,45.5 Z" />
+
+    <!-- Rosy Cheeks -->
+    <path
+        android:fillColor="#FF8A80"
+        android:pathData="M43,51 A2.5,1.8 0 1,0 43,47.4 A2.5,1.8 0 1,0 43,51 Z" />
+    <path
+        android:fillColor="#FF8A80"
+        android:pathData="M65,51 A2.5,1.8 0 1,0 65,47.4 A2.5,1.8 0 1,0 65,51 Z" />
+
+    <!-- Happy Smile -->
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M50.5,52 C52,55.5 56,55.5 57.5,52 C58,52.5 57,56.5 54,56.5 C51,56.5 50,52.5 50.5,52 Z" />
+
+    <!-- Preschool Toy Block Left "A" -->
+    <path
+        android:fillColor="#42A5F5"
+        android:pathData="M29,66 L41,66 A3,3 0 0,1 44,69 L44,81 A3,3 0 0,1 41,84 L29,84 A3,3 0 0,1 26,81 L26,69 A3,3 0 0,1 29,66 Z" />
+    <!-- Letter A on block -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,70.5 L32.5,79 L34.2,79 L34.7,77.2 L37.3,77.2 L37.8,79 L39.5,79 L37,70.5 Z M36,73.5 L36.9,76 L35.1,76 Z" />
+
+    <!-- Preschool Toy Block Center "1" -->
+    <path
+        android:fillColor="#66BB6A"
+        android:pathData="M48,68 L60,68 A3,3 0 0,1 63,71 L63,83 A3,3 0 0,1 60,86 L48,86 A3,3 0 0,1 45,83 L45,71 A3,3 0 0,1 48,68 Z" />
+    <!-- Number 1 on block -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52.5,74.5 L54.5,73 L55.5,73 L55.5,81.5 L53.5,81.5 L53.5,75 Z" />
+
+    <!-- Preschool Toy Block Right "★" -->
+    <path
+        android:fillColor="#AB47BC"
+        android:pathData="M67,66 L79,66 A3,3 0 0,1 82,69 L82,81 A3,3 0 0,1 79,84 L67,84 A3,3 0 0,1 64,81 L64,69 A3,3 0 0,1 67,66 Z" />
+    <!-- Star on block -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M73,71 L74.2,74.2 L77.5,74.5 L75,76.7 L75.8,80 L73,78.2 L70.2,80 L71,76.7 L68.5,74.5 L71.8,74.2 Z" />
+
+    <!-- Little Sparkles in sky -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M78,32 L79,35 L82,36 L79,37 L78,40 L77,37 L74,36 L77,35 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,34 L30.8,36.2 L33,37 L30.8,37.8 L30,40 L29.2,37.8 L27,37 L29.2,36.2 Z" />
+</vector>
